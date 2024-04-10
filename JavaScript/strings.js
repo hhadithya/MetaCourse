@@ -11,3 +11,6 @@ console.log(words);
 
 console.log(str.toUpperCase());
 console.log(str.toUpperCase());
+
+console.log(str.match(/o/));
+console.log(str.match(/a/)); //null
